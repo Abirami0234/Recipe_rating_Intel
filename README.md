@@ -13,3 +13,6 @@ Various machine learning algorithms are employed, such as
 •XgBoost with 76% accuracy 
 
 These models are trained on the dataset to learn patterns and relationships between recipe features and ratings, enabling them to make predictions on unseen data effectively.
+## Evaluation:
+
+The performance of the models is evaluated using the accuracy score metric. This metric measures the proportion of correctly predicted ratings out of all predictions made by the model. With an accuracy score of 75%, our models demonstrate a strong capability to predict food ratings accurately.
