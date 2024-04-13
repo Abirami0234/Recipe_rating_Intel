@@ -25,3 +25,12 @@ Integrating Intel oneAPI Data Analytics Library (oneDAL) into the Recipe Rating 
 
 
 The above correlation matrix heatmap illustrates the relationships between different features in the dataset. Darker colors indicate stronger correlations, while lighter colors represent weaker correlations. Understanding these correlations can provide insights into the relationships between various factors influencing food ratings.
+## Dependencies:
+
+•Python 3.x
+
+•Scikit-learn(Intel extension)
+
+•Pandas
+
+•NumPy
