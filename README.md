@@ -16,8 +16,6 @@ These models are trained on the dataset to learn patterns and relationships betw
 ## Evaluation:
 
 The performance of the models is evaluated using the accuracy score metric. This metric measures the proportion of correctly predicted ratings out of all predictions made by the model. With an accuracy score of 75%, our models demonstrate a strong capability to predict food ratings accurately.
-## Correlation Matrix
-
-![Correlation Matrix](correlation_matrix.jpg)
+## Correlation Matrix:
 
 The above correlation matrix heatmap illustrates the relationships between different features in the dataset. Darker colors indicate stronger correlations, while lighter colors represent weaker correlations. Understanding these correlations can provide insights into the relationships between various factors influencing food ratings.
