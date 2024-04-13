@@ -4,9 +4,9 @@ This project aims to predict food ratings using machine learning models trained 
 ## Machine Learning Models:
 Various machine learning algorithms are employed, such as
 
-•Logistic Regression with 76% accuracy 
+•Logistic Regression with 75% accuracy 
 
-•Decision Tree with 75% accuracy 
+•Decision Tree with 63% accuracy 
 
 •SVM with 75% accuracy 
 
